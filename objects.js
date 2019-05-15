@@ -2,4 +2,5 @@ var playlist = { "Modest Mouse": "Night on the sun", "Porches": "Country", "Rae 
 
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
+  return playlist
 }
