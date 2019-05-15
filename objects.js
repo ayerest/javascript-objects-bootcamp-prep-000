@@ -1,1 +1,1 @@
-var playlist = { Modest Mouse: "Night on the sun", Porches: "Country", Rae Sremmurd: "Yoga"}
+var playlist = { "Modest Mouse": "Night on the sun", "Porches": "Country", "Rae Sremmurd": "Yoga"}
